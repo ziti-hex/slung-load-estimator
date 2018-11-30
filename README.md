@@ -1,4 +1,4 @@
-# slung-load-estimator
+# Slung-load-estimator
 Diese Arbeit befasst sich mit der Frage, wie eine robuste und flexible
 Zustandsermittlungfür eine Last an einem Quadrocopter hängend gelagert ist,
 entwickelt werden kann. Die Aufgabe wird in experimenteller Art gelöst,
