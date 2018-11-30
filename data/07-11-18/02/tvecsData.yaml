@@ -1,0 +1,3136 @@
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        psc/U5pStD+/jOf5M7W0P5Wgyu4lRuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881014, 588197]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        09kG+NgJtD+d7VtLVLW0PwwqeT4WRuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881014, 101761530]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        14TpkGemsz9mzweoJu20P/qIQtEIO+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881014, 200784291]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        rbjSV39+sz9RhDg2fPa0P5hCEdbvMeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881014, 301103613]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        BMYgKN6Osz+JCpISkkC1PytxXt0VR+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881014, 400159655]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        dGbC2IqJsz/oBXnG5Dy1P9ZkKIq5J+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881014, 500398301]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        jnz+nYa7sz9G/7s+loi1P4DqqWyBQOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881014, 600755592]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        lSHHs4QOtD93XmeagKW1P79WPZUbTeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881014, 700392520]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        1kF3MFNXtD/5BjSvVaW1P3sjnEciTeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881014, 800127780]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        WGDglR+gtD8Y7iRcKqW1PxAO6E4qTeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881014, 900318561]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        OZLblW7XtD9Aj1FdTqq1P9HJMhA+TeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881015, 890592]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        2+1zOuQRtT/kmOh3N1e1PxwUgEhQN+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881015, 100077832]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        Z3E6vNwktT/fYKEdpze1PzuZyCAqPuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881015, 200262676]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        l0TFKG8utT/Z5oowvwS1P7OPcVGiSOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881015, 300262259]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        bkNhIpYCtT8z6WHb9Oe0P/o39P16OeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881015, 400056321]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        nT4R++TytD+fcF3+wcO0PzxtWyVmPeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881015, 500494394]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        G/Nt5H+etD+N/18q/KW0PwhECtuaL+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881015, 600262363]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        9sPl1ylWtD+/FRVkPKa0P/rKAg+jL+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881015, 700310800]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        09kG+NgJtD+d7VtLVLW0PwwqeT4WRuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881015, 800098509]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        KYGzE5P0sz8KXsPOKgW1P7J6krnnaeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881015, 901075332]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        kDQutlyNsz+7DonSnPC0P5SLfQ7FROU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881016, 957259]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        BMYgKN6Osz+JCpISkkC1PytxXt0VR+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881016, 100542779]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        grnvz+d/sz84WgweDEa1P3QnkEMfNOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881016, 200281217]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        PEYpmI2Gsz+sbFg850u1PyJ45pQRFOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881016, 300458404]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        AYpZIxvZsz/q/LydX5C1PxIX6+pjSeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881016, 400217102]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        pHiWeSEStD9O3lZ7FJW1P40fEvsoNuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881016, 501213300]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        mrz4koRatD/MmbEByJS1Pxnwcb8VNuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881016, 600319238]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        dA9X8jOztD94KXopro+1P71YohZRSeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881016, 700499967]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        evYFOuL7tD9oFcatco+1P2ojpNJNSeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881016, 800323821]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        arWtzQ4wtT+TCT+5v1S1P6qBy2/tSuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881016, 900407623]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        WX2m6wE9tT+yIcp0RhO1P22syxSgP+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881017, 291998]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        VN6/uR8dtT9HyjWPNgq1P2crvsnaSOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881017, 100204446]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        NG46l7H4tD+/hzYLm++0P/VsuPDDROU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881017, 201199966]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        G/Nt5H+etD+N/18q/KW0PwhECtuaL+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881017, 301113404]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        9sPl1ylWtD+/FRVkPKa0P/rKAg+jL+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881017, 400980331]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        kxnmptENtD+NwGrNfKa0P7L4qR+tL+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881017, 500349602]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        /72i3ffhsz+v8umzSZu0P+l1CT9qJeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881017, 600343039]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        DYDNgJ24sz+XPsr4/ui0P7wMKOkFPOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881017, 700483195]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        635DPyKbsz8SyvfH0+q0P23VRw2VJ+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881017, 801178456]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        grnvz+d/sz84WgweDEa1P3QnkEMfNOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881017, 900716216]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        UoTF74+csz+DE/C7Ozq1Pxx2aWfEKeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881018, 155904]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        wgiz+7vJsz/anSQjYZW1Px0yexE+NuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881018, 101148768]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        pHiWeSEStD9O3lZ7FJW1P40fEvsoNuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881018, 200820487]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        mrz4koRatD/MmbEByJS1Pxnwcb8VNuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881018, 300772987]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        vcVoT+WitD/rRMm7e5S1P/E0x2AENuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881018, 401645747]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        n255eq78tD/458TEHpy1P6E1ogjgY+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881018, 500740070]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        XI7b0N0FtT+NH3fqEzm1P6dUpSevKeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881018, 600314706]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        FA2NANQ6tT/tOu7BjVS1P1pauYtJbuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881018, 700562206]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        6R9k8FYjtT92lnWv9+e0P4cWDMv+O+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881018, 802372830]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        VCDtbAjttD8B4d+q9NG0P3jG9qBdN+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881018, 900603039]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        17sjOKq6tD81sz44rpq0P3u77RxvJeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881019, 71528]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        Y79NsnBytD+hpF734Zq0P10+abtrJeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881019, 100302622]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        D83zQDUqtD9pm+XMFZu0P8A4wRxqJeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881019, 200156580]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        fzGN03L7sz8Zsd5647y0P8eR1ahDNOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881019, 300130122]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        j+wVvEGtsz+Cdk0PAvC0P7fjAOnkRuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881019, 400375018]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        ZgIGRzKQsz/SApnY/vG0P83qMShcMuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881019, 500281684]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        grnvz+d/sz84WgweDEa1P3QnkEMfNOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881019, 600523872]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        HOwYdhG1sz+C2Hs3DIO1Px5RTloIYeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881019, 700031528]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        wgiz+7vJsz/anSQjYZW1Px0yexE+NuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881019, 800266007]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        N3d/pOXzsz+ek00grIy1P9aRM5dmLOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881019, 900090747]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        PiTH9JQutD/5u3ZoN4m1P6V9+l3mK+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881020, 120695]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        I3zLXqyKtD86apw5no+1P2nYKNiiS+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881020, 100431945]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        cejToW7TtD9wemnXa4+1P+woi16kS+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881020, 200297674]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        gMUb8en7tD+r+38/s0C1Px3wwoO1NOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881020, 300176528]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        mtJ99YsatT9f8+VJKj+1PxPgSidTSeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881020, 400270174]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        rYfmpZ8wtT8pyYoL4/S0PwcravimMeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881020, 500699340]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        1Fz7YiMftT9z4+3ZgOG0P8AJOZOEXOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881020, 600322101]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        WAHLinjItD+2ZgOD7p20P4qFbRUMJuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881020, 700314288]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        G/Nt5H+etD+N/18q/KW0PwhECtuaL+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881020, 800266632]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        9sPl1ylWtD+/FRVkPKa0P/rKAg+jL+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881020, 900169444]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        ABMigqz8sz8QS8I3NKq0P/dYql/nGuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881021, 308715]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        4gJA/Xe8sz9e+YuhT/60P0aMIZFuPeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881021, 100274496]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        ZgIGRzKQsz/SApnY/vG0P83qMShcMuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881021, 200382621]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        rlppp/9zsz9E+7yxnCa1PxtgbJ1LJeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881021, 300215798]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        HVS6SLORsz8DtU8DrUG1P9CE26KoNOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881021, 400315069]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        WMHF9Q6Xsz8xA/SXsW21P6/fQ4IpPOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881021, 501312934]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        HGsPPH/Qsz8x4ex283K1P6gjmSZXKeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881021, 600374861]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        guTxrCkktD9DoeBRA5G1P2xX7kP2NuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881021, 700153975]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        bFkNKZ9stD+62zejzZC1PzFP2dv1NuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881021, 800326788]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        3Uax8TCptD9XhI+1KHK1P1G8YeEvKeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881021, 900255850]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        n8TkjxXrtD+iqmN9bkW1P2qt9rtLIeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881022, 277100]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        OYoq1OTvtD+CwIaBiCK1P+2W3Hz+JuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881022, 100274652]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        Bw5nQWlOtT+HkQUIbz61P8FdwUFJVuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881022, 200359183]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        VH9dTRggtT/bn6DCauK0P3ZNml5hSeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881022, 300129079]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        2cYNDxEEtT+PBoU6qO60P4vlv64lVOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881022, 400215069]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        hf2lob+ktD/6U60UO4S0P5RIHzjCIuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881022, 500337048]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        3sOnk5FctD9SdgwZc4S0P7NXcJTEIuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881022, 600670850]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        zmGSedoPtD8QRUT9xKe0P21ZN/wdHeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881022, 700239079]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        uLTxHKPgsz9TZ73Qn++0P6Xul65DVOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881022, 800246319]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        QnBXE2OFsz+e2j8laNS0PyWhXzUAJeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881022, 900187829]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        rNO/wS2Zsz+CyOhn+j+1P3uavPWIVuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881023, 330121]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        dioIuG2Csz/oRS/lvEa1Pz9pXyd/IeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881023, 101031891]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        2g5Gb0a3sz9BDZ3RRYO1P2myVjO9TeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881023, 200204131]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        9uVz1MvFsz8m+fgo1nq1PyL+3QGANOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881023, 300365329]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        gp/acfEJtD/jZ/mi2p21P6clLBLxLuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881023, 400103193]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        ml2rsUVStD8vzx5im521P+KWtTnpLuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881023, 500675954]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        xOZaGofPtD+Uk/jpqom1PyyL4hJxWOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881023, 600308714]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        DltLyREHtT8sodRzyo61P5FZmuV+WOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881023, 700719860]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        pm2GIzkutT+LK5AOSz61Pz2UNvyOQOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881023, 800152256]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        Bw5nQWlOtT+HkQUIbz61P8FdwUFJVuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881023, 900167568]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        iFfDLedMtT89UEuZau60P9dojbUiVOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881024, 229756]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        2cYNDxEEtT+PBoU6qO60P4vlv64lVOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881024, 100248558]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        vp8mmymTtD+6iv8IPIi0P3bfDHIxDuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881024, 200264755]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        3sOnk5FctD9SdgwZc4S0P7NXcJTEIuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881024, 302890068]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        KGG3D4cvtD/6mT2QUMy0P11QhySORuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881024, 401313089]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        OxbEwYjxsz/dSIVwp+m0Pz4lCK6hU+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881024, 500583245]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        U09+EzeSsz/rfpbNy9+0PzV61runGeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881024, 601117255]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        tTaV0x6qsz8iuoRDAzq1P/XyPP/vVeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881024, 700672047]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        Gyq1m2pssz+a/L46DzC1P/hKHICdHuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881024, 800219599]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        jGEg56mrsz+qBHl5UIq1P2KJu6NQWOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881024, 900488557]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        J7jh5ninsz+GQpfNG3u1P+ZmfdVtH+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881025, 520328]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        cHVpRpjvsz+/g25P33q1PyNxMjFmH+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881025, 101261630]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        ntl2zspRtD9Zr7hW+cO1P9tTKOksVuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881025, 200147776]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        vCcUwJ2etD90NUtajY61P/8p0ibCQuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881025, 300768140]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        NqaPC+7DtD+gpCasrWu1P2cnX3fxSuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881025, 400385797]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        jAQiv9PUtD+HEaLWpy61P1MagxpLHuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881025, 500152932]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        zySCGVsXtT9SQxfY8ya1P5pcAUgNPeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881025, 600192776]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        LaI5ztcMtT//Ty8KdNu0P8hosCvvGuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881025, 700258765]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        EfB2g5gJtT/M6vCttcu0P+Ypb0ePRuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881025, 800057203]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        Ur0GJrfetD80ReXhK9O0P8BEkklET+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881025, 900071734]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        uBeFbDJ7tD878D55toy0PzoejsS3GOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881026, 463661]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        k47KDRpNtD99D8R3kNO0PwIp2AE/T+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881026, 100096005]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        MVJg1u/zsz/SS1+cYti0P8PO//oUO+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881026, 200109859]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        eTweRxmzsz/DCQFajOC0PzlJG7VeHOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881026, 300097567]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        IdeBBIyfsz9q167unxy1P9LM7fPQSOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881026, 400058661]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        Gyq1m2pssz+a/L46DzC1P/hKHICdHuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881026, 500098921]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        Oy8jLAChsz+INnWRmmy1P8XFq3gSS+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881026, 600568348]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        KoxqGRiRsz8to91F6mO1P+oA3mUMHOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881026, 700322827]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        FRhulrrHsz8Q2+OL33q1P1fxuW1qIeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881026, 800357254]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        eMEDn+cPtD9lewhxqnq1Pz2UtxRoIeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881026, 900113192]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        StcqeRJYtD8xMlEedXq1PxKvEDNnIeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881027, 841421]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        sZW9xdextD/t7Rgcpm61P0ZkXFOCNeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881027, 100518036]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        k4lYtLzwtD8VaTGPbni1P7rGWUsTVuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881027, 200107984]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        zySCGVsXtT9SQxfY8ya1P5pcAUgNPeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881027, 300668192]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        7w2lw4kJtT/F7cszsga1PxRk3PVcLeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881027, 400050067]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        o+W5G94VtT8raCPKWde0P62OLqnuOuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881027, 500375588]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        opNG1cHttD+zKzQ15Ne0Px3Sg4NEPeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881027, 600435379]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        mXUu7/KktD+IxEhaoti0P8z2aIDEUeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881027, 700754233]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        8yi6pO5stD/XMYCO8dK0P4KGzCovUeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881027, 800745171]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        AZxFtiAUtD/TLpyCndi0P8W3G0laPeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881027, 900330535]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        GRTQnPXVsz/jhbhrjtC0P2ipklOLMeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881028, 6493869]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        IdeBBIyfsz9q167unxy1P9LM7fPQSOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881028, 100572671]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        wDFxxe+asz8GBMhRsD+1PxcavgigQuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881028, 200274650]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        WiRyNNaFsz/UOPHztXi1P+JnTNbkQeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881028, 300578712]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        RRquKwTtsz9RWHfQhuq1P//6IZd5neU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881028, 400114181]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        Y6tAutPfsz/cF+JFC8S1P3MGNXZFWOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881028, 500652410]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        JjwoMn8YtD+f8umICsi1P9mIkQz9Q+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881028, 601864858]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        zEsB81ZXtD935q5kP6C1P9V04o5CSOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881028, 700396785]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        XkvkkdeZtD+St7owLnO1PwACq6QlQOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881028, 800022097]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        TPmg0dDVtD///P3I5lO1PyNmnimzMeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881028, 900096785]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        QETj72ILtT/F+5EzYxu1P9IuuLrvNOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881029, 125066]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        7w2lw4kJtT/F7cszsga1PxRk3PVcLeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881029, 100613816]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        tNLkz8kntT900a/kP9O0P23Lw9qvO+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881029, 200155326]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        opNG1cHttD+zKzQ15Ne0Px3Sg4NEPeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881029, 300237097]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        XGHKn2mqtD+cA0T+ZLW0P+QjJsfeQ+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881029, 400232201]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        Bis56cVhtD+0akf/n7W0P5cy+0LnQ+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881029, 500309181]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        HYpjRNsxtD++qJ364d+0P+r00aY6RuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881029, 600145951]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        MDs7+Pf0sz8S4pDlNti0P97T2x8/J+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881029, 700186368]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        E7ohE/Sysz/9IKGVYgW1P/4AlresL+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881029, 800373920]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        nUUMMmmEsz8Tn1q33ii1P6tjwUGoP+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881029, 900462253]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        WiRyNNaFsz/UOPHztXi1P+JnTNbkQeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881030, 182149]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        RRquKwTtsz9RWHfQhuq1P//6IZd5neU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881030, 100639284]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        rWkyx8qSsz+RjPbYqWO1PygGFlHnCOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881030, 201024805]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        zQTUy0bzsz9ruQPgFay1P0rvI6/0PuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881030, 300103451]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        KswuwgQqtD+ldFYs/K+1P/zwmJwrPuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881030, 400505951]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        nNqXX2CItD/zomVgfXa1PySb7ON+K+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881030, 500482618]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        IcsL5U7LtD/oggith1u1P2k1PPaPPOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881030, 600508086]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        arJjI2MAtT9mk9DcLiK1PzaMoCFNP+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881030, 700179493]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        Kj/rEzcStT8Ygu5zjgu1P3MX1lBKOuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881030, 800336159]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        Xu4jzd4VtT/V+fNjRNe0P4TMPJswJ+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881030, 900353295]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        2CpwDltgtT+NJTS+lyO1P+CLKnxPn+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881031, 133086]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        ohl5BSbItD+4CBALFLy0P74q174IOOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881031, 100251315]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        FtuYMKl/tD8bAO1jRry0Pwl9LiIGOOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881031, 200300951]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        q4ENMSo3tD+7YYuQeLy0P3huhwMFOOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881031, 300436055]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        qosmmJUFtD+q0bur8tO0P8bQlz2NO+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881031, 400188086]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        E7ohE/Sysz/9IKGVYgW1P/4AlresL+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881031, 500177669]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        sU9H+zaVsz+DIXRq7SK1P1ff1MgWP+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881031, 600729388]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        4GqdKQZssz9Hv2tbMFW1P1nUbBPyMeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881031, 700337201]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        WiRyNNaFsz/UOPHztXi1P+JnTNbkQeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881031, 800196263]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        X8nbbrTHsz+ItfCzCcG1PwkGjk2QYuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881031, 900168242]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        aFVpSMYxtD9PBOnwGCC2P/CHHi5SseU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881032, 701628]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        GT/76I8dtD8cYUu3maW1P878rdupSuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881032, 100829023]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        q9gVfHiVtD/3Pl/TYrS1P7J+AiwPbuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881032, 200668138]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        spt2IPL8tD9cENEa1NG1P9hgcfHcmeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881032, 300310586]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        6mIIabkGtT/Wp7sAYGO1P0tkH9OtVeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881032, 400394179]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        Kj/rEzcStT8Ygu5zjgu1P3MX1lBKOuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881032, 500391992]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        Xu4jzd4VtT/V+fNjRNe0P4TMPJswJ+U/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881032, 600429127]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        AWHfq1ActT+3vSh3RNm0P1uwk/xKReU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881032, 700321263]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        C5ic5tHStD9bNIzb/7S0P8bkw9JmLeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881032, 800174492]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        ZalSC4KKtD8AWHsDOrW0P4v+RftpLeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881032, 900252617]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        t9MVDjBCtD/KDWA9dLW0P2e3SuBuLeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881033, 314544]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        AZxFtiAUtD/TLpyCndi0P8W3G0laPeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881033, 100510950]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        uHe+hOrRsz/HZfMc8gW1P1UNnsI3RuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881033, 200505742]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        s5jJHRyjsz/s8G/WaC+1P2rOMUJANOU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881033, 300588502]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        4F6Phbp5sz8ipf4t41i1P8uo6VG4MuU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881033, 400350064]
+- - - !!python/object/apply:numpy.core.multiarray._reconstruct
+      args:
+      - !!python/name:numpy.ndarray ''
+      - !!python/tuple [0]
+      - b
+      state: !!python/tuple
+      - 1
+      - !!python/tuple [1, 1, 3]
+      - !!python/object/apply:numpy.dtype
+        args: [f8, 0, 1]
+        state: !!python/tuple [3, <, null, null, null, -1, -1, 0]
+      - false
+      - !!binary |
+        WiRyNNaFsz/UOPHztXi1P+JnTNbkQeU/
+  - !!python/object/new:genpy.rostime.Time
+    state: [1539881033, 500467564]
