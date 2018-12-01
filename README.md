@@ -10,3 +10,7 @@ Als Ergebnis wird ein Pendel-System angestrebt der zur jedem Zeitpunkt
 bestimmbar ist. Die Arbeit stellt eine Methodik zur Verfügung, 
 die den Entwicklungspfad vom Fahrzeugdesign und -modellierung über
 Sensorik bis zur Computer Software.
+## Catkin_ws
+hier ist der sourcecode für ROS-Umgebung
+## data
+hier sind alle generieten Messdaten, Auswertung sowie calibrierungssampels und ArUco Marker
