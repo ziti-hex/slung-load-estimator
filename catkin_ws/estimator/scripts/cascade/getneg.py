@@ -1,3 +1,6 @@
+# script zum runterladen und aussortiren von Bildern 
+# um nur positive bilder zu erhalten
+
 import urllib.request
 import cv2
 import numpy as np

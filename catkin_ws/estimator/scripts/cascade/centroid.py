@@ -1,12 +1,13 @@
 import cv2
 import sys
 
+#versionstest
 (major_ver, minor_ver, subminor_ver, subsubminor_ver) = (cv2.__version__).split('.')
 
 if __name__ == '__main__' :
     # Set up tracker.
-    # Instead of MIL, you can also use
-    # Read video
+    # tracker aufruf fehlt
+    
     video = cv2.VideoCapture(0)
     # Exit if video not opened.
     if not video.isOpened():
@@ -30,7 +31,8 @@ if __name__ == '__main__' :
          
         # Start timer
         timer = cv2.getTickCount()
-        cv2.f
+        #hier fehlt ein Trackingaufruf
+        #cv2.f
  
         # Calculate Frames per second (FPS)
         fps = cv2.getTickFrequency() / (cv2.getTickCount() - timer);
